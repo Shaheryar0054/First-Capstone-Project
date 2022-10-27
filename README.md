@@ -34,7 +34,7 @@
 
 ## Live Demo
 
-- [Live link]()
+- [Live link](https://shaheryar0054.github.io/First-Capstone-Project/)
 
 
 ## Getting Started
@@ -71,7 +71,7 @@ Open in browser
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page]().
+Feel free to check the [issues page](https://github.com/Shaheryar0054/First-Capstone-Project/issues).
 
 ## Show your support
 
