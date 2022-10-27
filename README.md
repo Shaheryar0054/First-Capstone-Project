@@ -56,7 +56,7 @@ Open in browser
 
 ### Project Documantaion and short descriptive Video
 
-- Click on the link for [Short video]()
+- Click on the link for [Short video](https://www.loom.com/share/4012b7a509844b128e1ad261c91afbcf)
 
 
 ## Authors
