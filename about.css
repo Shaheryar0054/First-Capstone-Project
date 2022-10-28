@@ -300,6 +300,7 @@
   align-items: center;
   justify-content: center;
   gap: 20px;
+  background-color: #000;
 }
 
 .mobile-footer img {
@@ -310,10 +311,8 @@
 }
 
 .mobile-footer h6 {
-  color: #272a31;
   margin-right: 30px;
-  font-weight: 800;
-  font-size: 16px;
+  color: white;
 }
 
 @media (min-width: 768px) {
@@ -522,7 +521,7 @@
 
   .mobile-footer h6 {
     margin-right: 30px;
-    font-size: 18px;
+    font-size: 13px;
     font-weight: 400;
     padding-right: 200px;
   }
